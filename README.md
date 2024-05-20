@@ -1,12 +1,11 @@
-#Local Storage<br>
+# Local Storage<br>
 Almacenamiento web o conocido como almacenamiento DOM, es una API de Javascript standar proporcionada por los navegadores web
 que permiten que los sitios web almacenene datos persistentes en los dispositivos de los usuarios de manera similar a las cookies, pero con mucha mayor capacidad.
-
+![image](https://github.com/silviachaluisa/storage-modules/assets/133398724/8428b89d-609d-4169-835a-bca7824b94fd)
  Fig 1. Página web de la ESFOT
- ![image](https://github.com/silviachaluisa/storage-modules/assets/133398724/8428b89d-609d-4169-835a-bca7824b94fd)
-
- Fig 2. API de Pokémon
+ 
  ![image](https://github.com/silviachaluisa/storage-modules/assets/133398724/41ff109f-5e96-4e95-a1f3-7320cf9fde21)
+ Fig 2. API de Pokémon
 
 Guardar un Objeto en el LocalStorage.<br>
 ![image](https://github.com/silviachaluisa/storage-modules/assets/133398724/224fbdea-250b-4e73-8839-a841d6f2a829)
@@ -76,7 +75,7 @@ Y como podemos ver en el Local Storage ya no está la clave Pokemon Pikachu que 
 Fig 13. Verificar la función eliminar
 
 
-#Modulos<br>
+# Modulos<br>
 
 Para realizar la práctica, procedemos a crear una página sencilla de un ejemplo de login.
 ![image](https://github.com/silviachaluisa/storage-modules/assets/133398724/77093237-783e-469c-bb0e-eb256dd22a30)
